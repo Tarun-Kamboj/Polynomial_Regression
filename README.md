@@ -1,4 +1,8 @@
 # Polynomial_Regression
+<br><br>
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://kambojtarun.pythonanywhere.com/)<br>
+![made-with-jupyter](https://img.shields.io/badge/jupyter-6.0-ff7a05?style=for-the-badge&logo=Jupyter)
 
 Sometimes, the trend of data is not really linear, and looks curvy. In this case we can use Polynomial regression methods. 
 In fact, many different regressions exist that can be used to fit whatever the dataset looks like, such as quadratic, cubic, and so on, and it can go on and on to infinite degrees.
